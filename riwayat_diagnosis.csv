@@ -1,0 +1,3 @@
+id,tanggal,nama_tanaman,warna_daun,bercak_daun,daun_layu,batang_busuk,pertumbuhan_terhambat,diagnosis,similarity,tanggal_revisi,catatan_revisi
+1,2025-12-13 19:54:56,pisang,Hijau,Tidak Ada,Tidak,Tidak,Tidak,sehat,1.0,2025-12-13 19:55:32,sehat
+2,2025-12-13 19:55:54,pisang,Kuning,Tidak Ada,Tidak,Tidak,Ya,Antraknosa,1.0,,
